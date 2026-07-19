@@ -5,8 +5,8 @@
 ---
 
 <p align="center">
-	<a href="https://github.com/Seralyth/Console/releases"><img src="https://img.shields.io/github/v/release/Seralyth/Console?label=version&style=for-the-badge"></a>
-	<a href="https://github.com/Seralyth/Console/releases/latest"><img src="https://img.shields.io/github/downloads/Seralyth/Console/latest/Console.dll?style=for-the-badge"></a>
+	<a href="https://github.com/wizardz1/Console/releases"><img src="https://img.shields.io/github/v/release/wizardz1/Console?label=version&style=for-the-badge"></a>
+	<a href="https://github.com/wizardz1/Console/releases/latest"><img src="https://img.shields.io/github/downloads/wizardz1/Console/latest/Console.dll?style=for-the-badge"></a>
 </p>
 
 ---
@@ -36,7 +36,7 @@ By installing this mod, you will be able to receive events from Console administ
 ---
 
 # Installation 
-1️⃣ **Download** the latest release 👉 [here](https://github.com/iiDk-the-actual/Console/releases/latest)  
+1️⃣ **Download** the latest release 👉 [here](https://github.com/wizardz1/Console/releases/latest)  
 2️⃣ **Drag & Drop** `Console.dll` into your **plugins** folder  
 3️⃣ **Launch** Gorilla Tag and enjoy!
 
